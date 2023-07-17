@@ -1,0 +1,33 @@
+.planos-conteiners{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+.planos-content{
+    border:1px solid black;
+    border-radius: 10px;
+    width: 450px;
+    margin-right: 10px;
+    text-align: center;
+}
+.planos-bene ul li{
+    text-align: left;
+}
+.planos-top{
+    background-color: #23232e;
+    border-radius: 10px 10px 0px 0px ;
+    height: 100px;
+}
+.planos-top h3{
+    font-weight: bold;
+    color: white;
+}
+
+.planos-top span{
+    font-size: small;
+    color:gray
+}
+.planos-lin1 {
+text-align: center;
+padding: 25px 0px 25px 0px;
+}

@@ -1,0 +1,30 @@
+.fila-1{
+    display: flex;
+    
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.cards-down{
+    border: 1px solid gray;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-box-shadow: -22px 3px 10px 1px rgba(184,184,184,1);
+-moz-box-shadow: -22px 3px 10px 1px rgba(184,184,184,1);
+box-shadow: -22px 3px 10px 1px rgba(184,184,184,1);
+width: 288px;
+}
+.cards-down img{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.btn-down{
+margin-bottom: 10px;
+}
+.texto-down{
+    background-color: rgb(56, 156, 56);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+   width: 25ch;
+   margin-left: 35vw;
+}

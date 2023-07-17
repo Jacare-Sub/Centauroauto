@@ -1,0 +1,51 @@
+.sobre{
+    display: flex;
+    text-align: left;
+    padding-top:40px;
+    margin-left:50px
+}
+.sobre img{
+    border-radius: 10px;
+}
+.sobre-conteiner{
+    margin-left: 30px;
+}
+.sobre-conteiner h3{
+width: 800px;
+font-size: 40px;
+}
+.sobre-texto{
+    padding-top: 30px;
+    font-size: large;
+    width:780px
+}
+.local{
+    padding-top: 30px;
+    font-size: large;
+    width:750px;
+    text-align: justify;
+}
+.missao-texto h3{
+    width: 20ch; 
+    margin-left: 50px; 
+    padding-top: 73px; 
+    font-weight: bolder; 
+    font-size: 35px
+}
+.missao-texto span{
+    color: green;
+}
+.missao-conteiner{
+    margin-left: 50px;
+     width: 900px;
+     font-size: large;
+}
+.cards-missao{
+    display:flex ;
+      justify-content: space-around;
+      margin-top: 50px;
+}
+.card-missao{
+    text-align: center;
+        width: 800px;
+}
